@@ -1,0 +1,75 @@
+.content-wrap {
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+.header {
+  text-align: center;
+  background-color: yellow;
+  padding-bottom: 10px;
+}
+
+.header h1 {
+  margin: 0;
+  font-size: 72px;
+  text-transform: uppercase;
+  letter-spacing: 4px;
+  opacity: .9;
+  font-family: "Avenir Next", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.intro {
+  text-align: center;
+  background-color: ;
+}
+
+.intro p {
+  margin: 0;
+  font-size: 24px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+h2,
+h3 {
+  text-align: center;
+  font-family: "Avenir Next", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-transform: uppercase;
+}
+
+h2 {
+  font-size: 40px;
+}
+
+h3 {
+  font-size: 32px;
+}
+
+table {
+  max-width: 70%;
+  margin: 0 auto;
+}
+
+th,
+td {
+  border: 1px solid black;
+  padding: 20px;
+  font-size: 20px;
+}
+
+th {
+  background-color: black;
+  color: white;
+}
+
+.left,
+.right {
+  width: 50%;
+  float: left;
+}
+
+.footer {
+  clear:both;
+  margin-top: 60px;
+  text-align: center;
+}
